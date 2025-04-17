@@ -1,6 +1,6 @@
-# Web Analyzer by Omiya
+# Simple Web Analyzer By SL oomiBoy
 
-![Interface Screenshot](3d552517-616c-4d98-b50d-4805496941f8.png)
+![Interface Screenshot](https://github.com/SL-oomiBoy/Simple-Web-Analyzer/blob/main/images/Screenshot%202025-04-17%20065233.png)
 
 **Web Analyzer by Omiya** is a simple desktop application built with Python and Tkinter that allows users to analyze publicly available technical information about websites.
 
@@ -28,7 +28,7 @@
 
 Below is the user interface of the application:
 
-![Web Analyzer UI](3d552517-616c-4d98-b50d-4805496941f8.png)
+![Web Analyzer UI](https://github.com/SL-oomiBoy/Simple-Web-Analyzer/blob/main/images/Screenshot%202025-04-17%20065233.png)
 
 ---
 
@@ -38,3 +38,21 @@ Below is the user interface of the application:
 
 ```bash
 pip install requests dnspython python-whois
+```
+## To run the script:
+```bash
+python web_analyzer.py
+```
+---
+## 📌 Note
+This tool is intended for educational and informational purposes only.
+
+## 📄 License
+This project is licensed under the MIT License. See the LICENSE file for details.
+
+## ✨ Developed by Omiya
+
+
+
+
+
